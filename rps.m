@@ -1,11 +1,6 @@
 
 
-% The winner is determined by the following rules:
-% 1. Rock beats scissors; % 2. Scissors beats paper; % 3. Paper beats rock;
-% 4. If both players make the same move, then game is a draw.
-% Rock = R; % Paper = P; % Scissors = S; % R=1; % P=2; % S=3
-
-n = 1; %Start with game 1
+n = 1; 
 player_win = 0; % Wins of Player
 computer_win = 0; % Wins of Computer
 
